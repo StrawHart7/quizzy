@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "src/index.ts",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "src/index.ts"
+      }
+    ],
+    "env": {
+      "JWT_SECRET": "e3fbe430a72f502c5297b45a6ec91f1c528822c47af9f7ffe198c275a62f5ace",
+      "FEDAPAY_API_KEY": "sk_sandbox_dBKP1OuE3uxmU8JTmO-ZTXy7",
+      "FEDAPAY_PUBLIC_KEY": "pk_sandbox_e7EwEaMaRBnC0fxaLGkoxe1k",
+      "FEDAPAY_WEBHOOK_SECRET": "wh_sandbox_3ksSDtnwrnsYyXS7LjRuhP3-",
+      "FRONTEND_URL": "https://ton-frontend.vercel.app"
+    }
+  }
