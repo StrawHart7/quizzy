@@ -1,0 +1,66 @@
+[
+  {
+    "id": "quiz-1",
+    "title": "Introduction à la Programmation",
+    "description": "Testez vos connaissances de base en programmation",
+    "category": "Programmation",
+    "difficulty": "facile",
+    "timeLimit": 300,
+    "createdBy": "admin",
+    "createdAt": "2026-01-15T00:00:00.000Z",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "qcm",
+        "text": "Qu'est-ce qu'une variable en programmation ?",
+        "options": [
+          "Un espace de stockage pour des données",
+          "Une fonction qui retourne une valeur",
+          "Une boucle qui répète des instructions",
+          "Un type de données spécifique"
+        ],
+        "correctAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "explanation": "Une variable est un conteneur qui stocke des données en mémoire.",
+        "difficulty": "facile",
+        "points": 10
+      },
+      {
+        "id": "q2",
+        "type": "unique",
+        "text": "Quel est le résultat de 2 + 2 en programmation ?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "22"
+        ],
+        "correctAnswer": "4",
+        "explanation": "En programmation, l'addition fonctionne comme en mathématiques.",
+        "difficulty": "facile",
+        "points": 10
+      },
+      {
+        "id": "q3",
+        "type": "vf",
+        "text": "JavaScript est un langage compilé.",
+        "correctAnswer": "false",
+        "explanation": "JavaScript est un langage interprété, pas compilé.",
+        "difficulty": "facile",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": "a31034dd-a8c2-4d18-865d-2a5986502f31",
+    "title": "2x+babiè",
+    "description": "2x+babiè tout simplement",
+    "category": "Tech",
+    "difficulty": "difficile",
+    "timeLimit": 180,
+    "questions": [],
+    "createdBy": "0edcad42-1259-4b0d-9160-07e9fe17c2c8",
+    "createdAt": "2026-08-12T02:11:32.370Z"
+  }
+]

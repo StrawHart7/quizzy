@@ -1,0 +1,418 @@
+[
+  {
+    "userId": "e855850e-1843-4afd-88fc-78ac5ce928c8",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 7.632,
+    "startTime": "2026-08-11T16:00:57.760Z",
+    "endTime": "2026-08-11T16:01:05.392Z"
+  },
+  {
+    "userId": "e855850e-1843-4afd-88fc-78ac5ce928c8",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 8.294,
+    "startTime": "2026-08-11T16:03:23.188Z",
+    "endTime": "2026-08-11T16:03:31.482Z"
+  },
+  {
+    "userId": "e855850e-1843-4afd-88fc-78ac5ce928c8",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 7.385,
+    "startTime": "2026-08-11T16:45:28.555Z",
+    "endTime": "2026-08-11T16:45:35.940Z"
+  },
+  {
+    "userId": "e855850e-1843-4afd-88fc-78ac5ce928c8",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 38.362,
+    "startTime": "2026-08-11T16:52:56.592Z",
+    "endTime": "2026-08-11T16:53:34.954Z"
+  },
+  {
+    "userId": "e855850e-1843-4afd-88fc-78ac5ce928c8",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 9.923,
+    "startTime": "2026-08-11T16:57:35.702Z",
+    "endTime": "2026-08-11T16:57:45.625Z"
+  },
+  {
+    "userId": "36dc78bf-2a3a-466d-85d0-63f3c01c20ae",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 8.278,
+    "startTime": "2026-08-11T17:00:57.191Z",
+    "endTime": "2026-08-11T17:01:05.469Z"
+  },
+  {
+    "userId": "d32b24f2-350d-465f-af74-e402bb7b1d0b",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 9.099,
+    "startTime": "2026-08-11T22:46:35.301Z",
+    "endTime": "2026-08-11T22:46:44.400Z"
+  },
+  {
+    "userId": "admin-1",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 9.246,
+    "startTime": "2026-08-12T02:12:31.970Z",
+    "endTime": "2026-08-12T02:12:41.216Z"
+  },
+  {
+    "userId": "admin-1",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 6.725,
+    "startTime": "2026-08-12T02:13:06.669Z",
+    "endTime": "2026-08-12T02:13:13.394Z"
+  },
+  {
+    "userId": "admin-1",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 6.061,
+    "startTime": "2026-08-12T02:13:42.093Z",
+    "endTime": "2026-08-12T02:13:48.154Z"
+  },
+  {
+    "userId": "admin-1",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 8.527,
+    "startTime": "2026-08-12T02:13:54.535Z",
+    "endTime": "2026-08-12T02:14:03.062Z"
+  },
+  {
+    "userId": "admin-1",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 9.179,
+    "startTime": "2026-08-12T02:14:08.587Z",
+    "endTime": "2026-08-12T02:14:17.766Z"
+  },
+  {
+    "userId": "admin-1",
+    "quizId": "quiz-1",
+    "answers": [
+      {
+        "questionId": "q1",
+        "userAnswer": [
+          "Un espace de stockage pour des données"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q2",
+        "userAnswer": "4",
+        "isCorrect": true,
+        "pointsEarned": 10
+      },
+      {
+        "questionId": "q3",
+        "userAnswer": "false",
+        "isCorrect": true,
+        "pointsEarned": 10
+      }
+    ],
+    "totalPoints": 30,
+    "maxPoints": 30,
+    "percentage": 100,
+    "timeSpent": 5.74,
+    "startTime": "2026-08-12T02:14:22.137Z",
+    "endTime": "2026-08-12T02:14:27.877Z"
+  }
+]

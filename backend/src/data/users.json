@@ -1,0 +1,26 @@
+[
+  {
+    "id": "admin-1",
+    "username": "StrawHart",
+    "email": "admin@quiz.com",
+    "password": "$2a$10$y/7CoEWa6Y1Upb8S0uZu4exzxMIPOP0YyyjEc4YJ/9eYVYN6q2yhi",
+    "role": "admin",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "d32b24f2-350d-465f-af74-e402bb7b1d0b",
+    "username": "Wize",
+    "email": "etudiant@quiz.com",
+    "password": "$2a$10$XA5BxXG/Bgg69J4/a.XgB.LFJHZg.UBxScP9RuoRLp6F5jpM9S4Zy",
+    "role": "teacher",
+    "createdAt": "2026-08-11T22:45:02.870Z"
+  },
+  {
+    "id": "0edcad42-1259-4b0d-9160-07e9fe17c2c8",
+    "username": "2x+babiè",
+    "email": "straw@quiz.com",
+    "password": "$2a$10$7KCV6oFc/HECusR1HNUU8e.X2DX.7UQ8wcU7cshn7SiVz66kMappa",
+    "role": "teacher",
+    "createdAt": "2026-08-12T02:08:51.942Z"
+  }
+]
